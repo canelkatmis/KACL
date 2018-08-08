@@ -8,7 +8,11 @@ Just add all you wanted AWS credentials to bash scripts and execute docker compo
 generate_list <account_name> <account-id> <default_region> <access_key> <secret_key>
 ```
 ![alt text](kacl_searchtext.gif)
+
+High-level diagram:
 ![alt text](kacl_diagram.jpg)
+
+Folder tree:
 ```
 ├── cron
 │   ├── crontab
