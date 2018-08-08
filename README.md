@@ -1,5 +1,5 @@
 # KACL
-User friendly gui that you can search AWS items(instances, elbs, fqdns, network interfaces) on different accounts and regions.
+User friendly gui that you can search AWS items(instances, elbs, fqdns, network interfaces) on different accounts and regions quickly.
 
 Add all you wanted AWS credentials inside bash scripts:
 ```
