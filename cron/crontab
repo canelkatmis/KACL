@@ -1,0 +1,4 @@
+0 0 * * * /scripts/instance.sh
+0 0 * * * /scripts/elb.sh
+0 0 * * * /scripts/fqdn.sh
+0 0 * * * /scripts/eni.sh
