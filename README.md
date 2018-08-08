@@ -1,7 +1,9 @@
 # KACL
-User friendly gui that you can search AWS items(instances, elbs, fqdns, network interfaces) on different accounts and regions quickly.
+User friendly gui that you can search AWS items(instances, elbs, fqdns, network interfaces) on multiple accounts and regions quickly.
 
-Add all you wanted AWS credentials inside bash scripts:
+It's really hard to find any IP, ELB or FQDN when you have lots of customer on different AWS accounts and regions. This tool will simplify it.
+
+Add all you wanted AWS credentials to bash scripts:
 ```
 generate_list <account_name> <account-id> <default_region> <access_key> <secret_key>
 ```
