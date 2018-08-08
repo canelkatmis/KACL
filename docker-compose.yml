@@ -1,0 +1,13 @@
+cron:
+  container_name: kacl-cron
+  build: ./cron
+  volumes:
+    - ./data:/data
+
+apache:
+  container_name: kacl-apache
+  image: php:apache
+  ports:
+    - "80:80"
+  volumes:
+    - ./data:/var/www/html/
