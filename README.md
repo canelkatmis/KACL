@@ -3,7 +3,7 @@ User friendly gui that you can search AWS items(instances, elbs, fqdns, network 
 
 It's really hard to find any IP, ELB or FQDN when you have lots of customer on different AWS accounts and regions. This tool will help you find it quickly!
 
-Add all you wanted AWS credentials to bash scripts:
+Just add all you wanted AWS credentials to bash scripts and execute docker.
 ```
 generate_list <account_name> <account-id> <default_region> <access_key> <secret_key>
 ```
