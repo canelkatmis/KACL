@@ -10,6 +10,7 @@ generate_list <account_name> <account-id> <default_region> <access_key> <secret_
 ![alt text](kacl_searchtext.gif)
 
 High-level diagram:
+
 ![alt text](kacl_diagram.jpg)
 
 Folder tree:
