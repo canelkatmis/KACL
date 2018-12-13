@@ -1,9 +1,9 @@
 # KACL
-User friendly gui that you can search AWS items(instances, elbs, fqdns, network interfaces) that are on multiple accounts and regions quickly.
+A user friendly gui that you can search AWS items(instances, elbs, fqdns, network interfaces) quickly that are on multiple accounts and regions.
 
-It's really hard to find any IP, ELB or FQDN, when you have lots of customer on different AWS accounts and regions. This tool will help you find items quickly.
+It's really hard to find any IP, ELB or FQDN, when you have lots of customer on different AWS accounts and regions. This tool will help you find the items quickly.
 
-Just add all you wanted AWS credentials to bash scripts and execute docker compose(docker-compose up -d).
+Just add all you wanted AWS credentials as below to bash scripts and compose docker(docker-compose up -d).
 ```
 generate_list <account_name> <account-id> <default_region> <access_key> <secret_key>
 ```
