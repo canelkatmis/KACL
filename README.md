@@ -7,11 +7,11 @@ Just add all you wanted AWS credentials as below to bash scripts and compose doc
 ```
 generate_list <account_name> <account-id> <default_region> <access_key> <secret_key>
 ```
-![alt text](kacl_searchtext.gif)
+![alt text](readme/kacl_searchtext.gif)
 
 High-level diagram:
 
-![alt text](kacl_diagram.jpg)
+![alt text](readm/kacl_diagram.jpg)
 
 Folder tree:
 ```
