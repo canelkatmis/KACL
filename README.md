@@ -11,7 +11,7 @@ generate_list <account_name> <account-id> <default_region> <access_key> <secret_
 
 High-level diagram:
 
-![alt text](readm/kacl_diagram.jpg)
+![alt text](readme/kacl_diagram.jpg)
 
 Folder tree:
 ```
